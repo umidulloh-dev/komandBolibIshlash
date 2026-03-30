@@ -1,1 +1,1 @@
-# komandBolibIshlash
+    # komandBolibIshlash
